@@ -1,0 +1,21 @@
+body{
+    background:linear-gradient(to right,#9f16ba,#cf199e,#a31547,#ad0707,#0b0b7a)
+    }
+    
+    h1{
+        font-size:50px;
+        color:whitesmoke;
+    font-family:impact;
+    }
+    
+    #searchbar{
+        padding:15px;
+        border-radius: 10px;
+        width: 50%;
+    }
+    li{	
+        display: inline-block;
+    }
+    li,a{
+        color: white;
+    }
